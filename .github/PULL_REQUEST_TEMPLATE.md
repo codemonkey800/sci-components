@@ -22,4 +22,4 @@ _screenshots of component & link to local storybook page_
 - [ ] Test Story
 - [ ] Tests written
 - [ ] Variables from `defaultTheme.ts` used wherever possible
-- [ ] If updating an existing component, depreciate flag has been used
+- [ ] If updating an existing component, depreciate flag has been used where necessary
