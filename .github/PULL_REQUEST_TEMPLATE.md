@@ -1,14 +1,25 @@
-## Description
+---
+title: "type_of_change(scope_of_work): ticket title"
+assignees: "sds-eng, sds-design"
+---
+
+## Summary
 
 **Structural Element (Base, Gene, DNA, Chromosome or Cell)**
-Shortcut ticket: [ch-XXXX](link)
+Shortcut ticket: [sh-XXXX](link)
 Copy ticket descirption here
 
 ## Visual
 
+_screenshots of component & link to local storybook page_
+
+<!-- TBD: replace with Chromatic link when implemented -->
+
 ## Checklist
 
-- [ ] Does the story have all states & stages displayed?
-- [ ] Are variables from `defaultTheme.ts` used wherever possible?
-- [ ] Are the requester and designer tagged as reviewers?
-- [ ] If updating an existing component, have these changes been flagged to clients?
+- [ ] Default Story
+- [ ] LivePreview Story
+- [ ] Test Story
+- [ ] Tests written
+- [ ] Variables from `defaultTheme.ts` used wherever possible
+- [ ] If updating an existing component, depreciate flag has been used
