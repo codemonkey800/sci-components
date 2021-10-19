@@ -1,6 +1,6 @@
 ---
 title: "type_of_change(scope_of_work): ticket title"
-assignees: "sds-eng, sds-design"
+reviewers: "sds-eng, sds-design"
 ---
 
 ## Summary
